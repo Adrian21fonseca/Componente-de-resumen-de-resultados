@@ -1,0 +1,34 @@
+@media (min-width: 1000px) {
+    .contenedor{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        margin-top: 80px;
+        width: 70%;
+        border-radius: 10px;
+        border-bottom: 4px solid rgba(13, 13, 239, 0.135);
+        border-right: 4px solid rgba(13, 13, 239, 0.135);
+    }
+
+    .seccion_1{
+        width: 40%;
+        border-radius: 10px;
+    }
+
+    .tu-resultado{
+        margin-top: 40px;
+    }
+
+    .puntaje{
+        padding: 8px 31px;
+    }
+
+    .tex-complemento{
+        margin-top: 15px;
+        width: 70%;
+    }
+
+    .seccion_2{
+        width: 60%;
+    }
+}
